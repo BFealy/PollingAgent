@@ -1,0 +1,31 @@
+Flow
+
+1) Launch
+	a) can we launch as service?
+		i) if not, launch interactive?
+	b) Do we have windows event log access?
+		i) fall back logging to text file in install directory?
+	c) Do we have network access?
+		i) if not, error out and write to event log
+			Possibly retry?
+				Retry # limit?
+					Failure action for hitting limt?
+2) Does the FQDN resolve to an IP?
+		i) if not, error out and write to event log
+			Possibly interactive popup?
+			Possibly retry?
+				Retry # limit?
+					Failure action for hitting limt?
+3) Does the site exist/connect? 
+		i) HTTP or HTTPS?
+			Does the cert match what we think it should?
+		ii) Do we get desired return code?
+		iii) In case of connect/exist error
+			Possibly retry?
+				Retry # limit?
+					Failure action for hitting limt?
+4) Did we get back something that looks like an IP?
+		i) if not, does it look like a known error?
+			if not, log complete return
+		ii) if yes, push data to the event log
+5) Wait 1 minute and repeat
