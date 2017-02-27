@@ -1,0 +1,11 @@
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\bin\Release\WhatsMyIPAgent.exe
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\bin\Release\WhatsMyIPAgent.pdb
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\bin\Release\WhatsMyIPAgent.xml
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Release\WhatsMyIPAgent.vbprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Release\WhatsMyIPAgent.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Release\WhatsMyIPAgent.ProjectInstaller.resources
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Release\WhatsMyIPAgent.Service1.resources
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Release\WhatsMyIPAgent.vbproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Release\WhatsMyIPAgent.exe
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Release\WhatsMyIPAgent.xml
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Release\WhatsMyIPAgent.pdb

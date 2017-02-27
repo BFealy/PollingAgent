@@ -1,0 +1,10 @@
+c:\users\brian\documents\visual studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Debug\WhatsMyIPAgent.Resources.resources
+c:\users\brian\documents\visual studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Debug\WhatsMyIPAgent.vbproj.GenerateResource.Cache
+c:\users\brian\documents\visual studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\bin\Debug\WhatsMyIPAgent.exe
+c:\users\brian\documents\visual studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\bin\Debug\WhatsMyIPAgent.pdb
+c:\users\brian\documents\visual studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\bin\Debug\WhatsMyIPAgent.xml
+c:\users\brian\documents\visual studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Debug\WhatsMyIPAgent.exe
+c:\users\brian\documents\visual studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Debug\WhatsMyIPAgent.xml
+c:\users\brian\documents\visual studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Debug\WhatsMyIPAgent.pdb
+c:\users\brian\documents\visual studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Debug\WhatsMyIPAgent.Service1.resources
+c:\users\brian\documents\visual studio 2015\Projects\WhatsMyIPAgent\WhatsMyIPAgent\obj\Debug\WhatsMyIPAgent.ProjectInstaller.resources
